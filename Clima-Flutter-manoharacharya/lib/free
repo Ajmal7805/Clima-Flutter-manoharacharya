@@ -1,0 +1,16 @@
+ String mymargin = '15';
+    double mymarginasdouble=10;
+    try {
+       mymarginasdouble = double.parse(mymargin);
+     
+    } catch (e) {
+      print(e);
+
+
+      
+    }
+
+
+
+
+     
